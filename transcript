@@ -1,0 +1,17 @@
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_tb.vhd was successful.
+vsim -gui work.and_gate_tb
+# vsim -gui work.and_gate_tb 
+# Start time: 17:35:46 on Oct 14,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.and_gate_tb(behave)
+# Loading work.and_gate(rtl)
+add wave -position insertpoint sim:/and_gate_tb/*
+add wave -position insertpoint sim:/and_gate_tb/and_gate_INST/*
+add wave -position insertpoint sim:/and_gate_tb/*
+add wave -position insertpoint sim:/and_gate_tb/*
+run
+# End time: 17:42:10 on Oct 14,2025, Elapsed time: 0:06:24
+# Errors: 0, Warnings: 6

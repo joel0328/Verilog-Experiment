@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eand_gate
+Z0 w1760477256
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dC:/Users/gener/VerilogExperiment
+Z4 8C:/Users/gener/VerilogExperiment/Tutorial Code/VHDL Modelsim test/and_gate.vhd
+Z5 FC:/Users/gener/VerilogExperiment/Tutorial Code/VHDL Modelsim test/and_gate.vhd
+l0
+L4 1
+VQD1Z2n:6<MB[;zh4AiP<22
+!s100 RPm?=dAf4RjUeHI3eFcMi2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1760477682
+!i10b 1
+Z8 !s108 1760477682.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/gener/VerilogExperiment/Tutorial Code/VHDL Modelsim test/and_gate.vhd|
+Z10 !s107 C:/Users/gener/VerilogExperiment/Tutorial Code/VHDL Modelsim test/and_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+DEx4 work 8 and_gate 0 22 QD1Z2n:6<MB[;zh4AiP<22
+!i122 0
+l14
+L12 6
+VaBmgeann?8g1Tc4H75Ag<2
+!s100 4GWB1h@:cQXNK9GWGLB_I2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_gate_tb
+Z13 w1760477285
+R1
+R2
+!i122 1
+R3
+Z14 8C:/Users/gener/VerilogExperiment/Tutorial Code/VHDL Modelsim test/and_gate_tb.vhd
+Z15 FC:/Users/gener/VerilogExperiment/Tutorial Code/VHDL Modelsim test/and_gate_tb.vhd
+l0
+L4 1
+V8PR`TVBJ1DMXW[CXo_0MS1
+!s100 9SASH?ZdNXc5<eK`=d0Y33
+R6
+32
+Z16 !s110 1760477687
+!i10b 1
+Z17 !s108 1760477687.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/gener/VerilogExperiment/Tutorial Code/VHDL Modelsim test/and_gate_tb.vhd|
+!s107 C:/Users/gener/VerilogExperiment/Tutorial Code/VHDL Modelsim test/and_gate_tb.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 11 and_gate_tb 0 22 8PR`TVBJ1DMXW[CXo_0MS1
+!i122 1
+l19
+L7 38
+Vh_;FIKb5z<FzZ8k;eQFR:3
+!s100 f=mTY4DkD14hgXf6C6Oz^1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+Z19 !s107 C:/Users/gener/VerilogExperiment/Tutorial Code/VHDL Modelsim test/and_gate_tb.vhd|
+!i113 1
+R11
+R12

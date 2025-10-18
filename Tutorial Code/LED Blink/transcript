@@ -1,0 +1,167 @@
+# Compile of LED_TB.v was successful.
+# Compile of Tutorial LED Blink.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tutorial_led_blink_tb
+# vsim -gui work.tutorial_led_blink_tb 
+# Start time: 20:50:30 on Oct 17,2025
+# Loading work.tutorial_led_blink_tb
+# Loading work.tutorial_led_blink
+add wave -position insertpoint sim:/tutorial_led_blink_tb/*
+run
+# [0] LED -> 0
+# [4980000] LED -> 1
+# [9980000] LED -> 0
+# [14980000] LED -> 1
+# [19980000] LED -> 0
+# [24980000] LED -> 1
+# [29980000] LED -> 0
+# [34980000] LED -> 1
+# [39980000] LED -> 0
+# [44980000] LED -> 1
+# [49980000] LED -> 0
+# [54980000] LED -> 1
+# [59980000] LED -> 0
+# [64980000] LED -> 1
+# [69980000] LED -> 0
+# [74980000] LED -> 1
+# [79980000] LED -> 0
+# [84980000] LED -> 1
+# [89980000] LED -> 0
+# [94980000] LED -> 1
+# [99980000] LED -> 0
+# [104980000] LED -> 1
+# [109980000] LED -> 0
+# [114980000] LED -> 1
+# [119980000] LED -> 0
+# [124980000] LED -> 1
+# [129980000] LED -> 0
+# [134980000] LED -> 1
+# [139980000] LED -> 0
+# [144980000] LED -> 1
+# [149980000] LED -> 0
+# [154980000] LED -> 1
+# [159980000] LED -> 0
+# [164980000] LED -> 1
+# [169980000] LED -> 0
+# [174980000] LED -> 1
+# [179980000] LED -> 0
+# [184980000] LED -> 1
+# [189980000] LED -> 0
+# [194980000] LED -> 1
+# [199980000] LED -> 0
+# [249980000] LED -> 1
+# [299980000] LED -> 0
+# [349980000] LED -> 1
+# [399980000] LED -> 0
+# [409980000] LED -> 1
+# [419980000] LED -> 0
+# [429980000] LED -> 1
+# [439980000] LED -> 0
+# [449980000] LED -> 1
+# [459980000] LED -> 0
+# [469980000] LED -> 1
+# [479980000] LED -> 0
+# [489980000] LED -> 1
+# [499980000] LED -> 0
+# [509980000] LED -> 1
+# [519980000] LED -> 0
+# [529980000] LED -> 1
+# [539980000] LED -> 0
+# [549980000] LED -> 1
+# [559980000] LED -> 0
+# [569980000] LED -> 1
+# [579980000] LED -> 0
+# [589980000] LED -> 1
+# [599980000] LED -> 0
+# [600000000] LED -> 1
+# Test Complete
+# [999980000] LED -> 0
+# [1499980000] LED -> 1
+# [1999980000] LED -> 0
+# [2499980000] LED -> 1
+quit -sim
+# End time: 20:51:28 on Oct 17,2025, Elapsed time: 0:00:58
+# Errors: 0, Warnings: 2
+# Compile of LED_TB.v was successful.
+# Compile of Tutorial LED Blink.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tutorial_led_blink_tb
+# vsim -gui work.tutorial_led_blink_tb 
+# Start time: 20:51:47 on Oct 17,2025
+# Loading work.tutorial_led_blink_tb
+# Loading work.tutorial_led_blink
+add wave -position insertpoint sim:/tutorial_led_blink_tb/*
+run
+# [0] LED -> 0
+# [4980000] LED -> 1
+# [9980000] LED -> 0
+# [14980000] LED -> 1
+# [19980000] LED -> 0
+# [24980000] LED -> 1
+# [29980000] LED -> 0
+# [34980000] LED -> 1
+# [39980000] LED -> 0
+# [44980000] LED -> 1
+# [49980000] LED -> 0
+# [54980000] LED -> 1
+# [59980000] LED -> 0
+# [64980000] LED -> 1
+# [69980000] LED -> 0
+# [74980000] LED -> 1
+# [79980000] LED -> 0
+# [84980000] LED -> 1
+# [89980000] LED -> 0
+# [94980000] LED -> 1
+# [99980000] LED -> 0
+# [104980000] LED -> 1
+# [109980000] LED -> 0
+# [114980000] LED -> 1
+# [119980000] LED -> 0
+# [124980000] LED -> 1
+# [129980000] LED -> 0
+# [134980000] LED -> 1
+# [139980000] LED -> 0
+# [144980000] LED -> 1
+# [149980000] LED -> 0
+# [154980000] LED -> 1
+# [159980000] LED -> 0
+# [164980000] LED -> 1
+# [169980000] LED -> 0
+# [174980000] LED -> 1
+# [179980000] LED -> 0
+# [184980000] LED -> 1
+# [189980000] LED -> 0
+# [194980000] LED -> 1
+# [199980000] LED -> 0
+# [209980000] LED -> 1
+# [219980000] LED -> 0
+# [229980000] LED -> 1
+# [239980000] LED -> 0
+# [249980000] LED -> 1
+# [259980000] LED -> 0
+# [269980000] LED -> 1
+# [279980000] LED -> 0
+# [289980000] LED -> 1
+# [299980000] LED -> 0
+# [309980000] LED -> 1
+# [319980000] LED -> 0
+# [329980000] LED -> 1
+# [339980000] LED -> 0
+# [349980000] LED -> 1
+# [359980000] LED -> 0
+# [369980000] LED -> 1
+# [379980000] LED -> 0
+# [389980000] LED -> 1
+# [399980000] LED -> 0
+# [449980000] LED -> 1
+# [499980000] LED -> 0
+# [549980000] LED -> 1
+# [599980000] LED -> 0
+# [600000000] LED -> 1
+# Test Complete
+# [999980000] LED -> 0
+# [1499980000] LED -> 1
+# [1999980000] LED -> 0
+# [2499980000] LED -> 1
+# End time: 20:52:24 on Oct 17,2025, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 2

@@ -1,0 +1,16 @@
+{C:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/Tutorial LED Blink.v} {1 {vlog -work work -stats=none {C:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/Tutorial LED Blink.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tutorial_led_blink
+
+Top level modules:
+	tutorial_led_blink
+
+} {} {}} {C:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/LED_TB.v} {1 {vlog -work work -stats=none {C:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/LED_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tutorial_led_blink
+-- Compiling module tutorial_led_blink_tb
+
+Top level modules:
+	tutorial_led_blink_tb
+
+} {} {}}

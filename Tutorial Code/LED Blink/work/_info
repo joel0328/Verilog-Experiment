@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vtutorial_led_blink
+Z0 !s110 1760748694
+!i10b 1
+!s100 C7>NhnY5Yc`YE=PCgMiC22
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7BZ:3AIIEWAa;bYJb]I[T1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink
+w1760748670
+8C:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/Tutorial LED Blink.v
+FC:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/Tutorial LED Blink.v
+!i122 31
+L0 3 103
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1760748694.000000
+!s107 C:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/Tutorial LED Blink.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/Tutorial LED Blink.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtutorial_led_blink_tb
+R0
+!i10b 1
+!s100 TCh39nNnoQl5A[V@XJfBD1
+R1
+I0G79dP^h0=NL>dnMIfB2G0
+R2
+R3
+w1760739277
+8C:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/LED_TB.v
+FC:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/LED_TB.v
+!i122 30
+L0 5 46
+R4
+r1
+!s85 0
+31
+!s108 1760748693.000000
+!s107 Tutorial LED Blink.v|C:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/LED_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/gener/Verilog-Experiment/Tutorial Code/LED Blink/LED_TB.v|
+!i113 1
+R5
+R6

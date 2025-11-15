@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Nov 14 21:48:55 2025
+# Process ID         : 14828
+# Current directory  : C:/Users/gener/Verilog-Experiment/Basys3/Full_Adder_Basys3/Full_Adder_Basys3.runs/impl_1
+# Command line       : vivado.exe -log fulladd4.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fulladd4.tcl -notrace
+# Log file           : C:/Users/gener/Verilog-Experiment/Basys3/Full_Adder_Basys3/Full_Adder_Basys3.runs/impl_1/fulladd4.vdi
+# Journal file       : C:/Users/gener/Verilog-Experiment/Basys3/Full_Adder_Basys3/Full_Adder_Basys3.runs/impl_1\vivado.jou
+# Running On         : JoelsLaptop
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+# CPU Frequency      : 2208 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16882 MB
+# Swap memory        : 49392 MB
+# Total Virtual      : 66275 MB
+# Available Virtual  : 34284 MB
+#-----------------------------------------------------------
+source fulladd4.tcl -notrace

@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gener/Verilog-Experiment/Basys3/Full_Adder_Basys3/Full_Adder_Basys3.srcs/sources_1/new/fulladd4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladd4
+INFO: [VRFC 10-311] analyzing module fulladd
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gener/Verilog-Experiment/Basys3/Full_Adder_Basys3/Full_Adder_Basys3.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gener/Verilog-Experiment/Basys3/Full_Adder_Basys3/Full_Adder_Basys3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

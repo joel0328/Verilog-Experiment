@@ -9,7 +9,7 @@ fulladd4 FA_4 (SUM, C_OUT, A, B, C_IN);
 initial begin
     $monitor ($time " A = %b, B = %b, C_IN = %b, C_out = %b, SUM= %b\n", A, B, C_IN, C_OUT, SUM);
 end
-
+ 
 initial begin
     A = 4'd0; B = 4'd0; C_IN = 1'b0;
     #5 A = 4'd3, B = 4'd4;

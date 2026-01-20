@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Jan 19 18:56:20 2026
+# Process ID         : 40880
+# Current directory  : C:/Users/gener/Verilog-Experiment/Basys3/4_1_mux_gate_Level/4_1_mux_gate_Level.runs/impl_1
+# Command line       : vivado.exe -log mux4_to_1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mux4_to_1.tcl -notrace
+# Log file           : C:/Users/gener/Verilog-Experiment/Basys3/4_1_mux_gate_Level/4_1_mux_gate_Level.runs/impl_1/mux4_to_1.vdi
+# Journal file       : C:/Users/gener/Verilog-Experiment/Basys3/4_1_mux_gate_Level/4_1_mux_gate_Level.runs/impl_1\vivado.jou
+# Running On         : JoelsLaptop
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+# CPU Frequency      : 2304 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 34065 MB
+# Swap memory        : 8053 MB
+# Total Virtual      : 42118 MB
+# Available Virtual  : 6612 MB
+#-----------------------------------------------------------
+source mux4_to_1.tcl -notrace

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1771985686">
+  <File Type="PA-TCL" Name="PmodGYRO_Demo.tcl"/>
+  <File Type="REPORTS-TCL" Name="PmodGYRO_Demo_reports.tcl"/>
+  <File Type="INIT-TIMING" Name="PmodGYRO_Demo_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="PmodGYRO_Demo_opt.dcp"/>
+  <File Type="OPT-DRC" Name="PmodGYRO_Demo_drc_opted.rpt"/>
+  <File Type="OPT-UTIL" Name="PmodGYRO_Demo_utilization_opted.rpt"/>
+  <File Type="OPT-UTIL-PB" Name="PmodGYRO_Demo_utilization_opted.pb"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="PmodGYRO_Demo_methodology_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="PmodGYRO_Demo.hwdef"/>
+  <File Type="OPT-TIMING" Name="PmodGYRO_Demo_timing_summary_opted.rpt"/>
+  <File Type="OPT-RQA-PB" Name="PmodGYRO_Demo_rqa_opted.pb"/>
+  <File Type="PWROPT-DCP" Name="PmodGYRO_Demo_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="PmodGYRO_Demo_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="PmodGYRO_Demo_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="PmodGYRO_Demo_placed.dcp"/>
+  <File Type="PLACE-IO" Name="PmodGYRO_Demo_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="PmodGYRO_Demo_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="PmodGYRO_Demo_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="PmodGYRO_Demo_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="PmodGYRO_Demo_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="PmodGYRO_Demo_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="PmodGYRO_Demo_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="PmodGYRO_Demo_timing_summary_placed.rpt"/>
+  <File Type="PLACE-RQA-PB" Name="PmodGYRO_Demo_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="PmodGYRO_Demo_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="PmodGYRO_Demo_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="PmodGYRO_Demo_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="PmodGYRO_Demo_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="PmodGYRO_Demo_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="PmodGYRO_Demo_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="PmodGYRO_Demo_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="PmodGYRO_Demo_routed_bb.dcp"/>
+  <File Type="ROUTE-UTIL" Name="PmodGYRO_Demo_utilization_routed.rpt"/>
+  <File Type="ROUTE-UTIL-PB" Name="PmodGYRO_Demo_utilization_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="PmodGYRO_Demo_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="PmodGYRO_Demo_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="PmodGYRO_Demo_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="PmodGYRO_Demo_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="PmodGYRO_Demo_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="PmodGYRO_Demo_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="PmodGYRO_Demo_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="PmodGYRO_Demo_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="PmodGYRO_Demo_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="PmodGYRO_Demo_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="PmodGYRO_Demo_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="PmodGYRO_Demo_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="PmodGYRO_Demo_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="PmodGYRO_Demo_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="PmodGYRO_Demo_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="PmodGYRO_Demo_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="PmodGYRO_Demo_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="PmodGYRO_Demo_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="PmodGYRO_Demo_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-RQS-PB" Name="PmodGYRO_Demo_rqs_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="PmodGYRO_Demo_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="PmodGYRO_Demo_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="PmodGYRO_Demo_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="PmodGYRO_Demo_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="PmodGYRO_Demo_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="PmodGYRO_Demo_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="PmodGYRO_Demo_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="PmodGYRO_Demo_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="PmodGYRO_Demo.bit"/>
+  <File Type="BG-BIN" Name="PmodGYRO_Demo.bin"/>
+  <File Type="BITSTR-MSK" Name="PmodGYRO_Demo.msk"/>
+  <File Type="BITSTR-RBT" Name="PmodGYRO_Demo.rbt"/>
+  <File Type="BITSTR-NKY" Name="PmodGYRO_Demo.nky"/>
+  <File Type="BITSTR-BMM" Name="PmodGYRO_Demo_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="PmodGYRO_Demo.mmi"/>
+  <File Type="PDI-FILE" Name="PmodGYRO_Demo.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="PmodGYRO_Demo_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="PmodGYRO_Demo_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="PmodGYRO_Demo.rcfi"/>
+  <File Type="CFI_FILE" Name="PmodGYRO_Demo.cfi"/>
+  <File Type="RNPI_FILE" Name="PmodGYRO_Demo.rnpi"/>
+  <File Type="RCDO-FILE" Name="PmodGYRO_Demo.rcdo"/>
+  <File Type="MARKER-RNPI-FILE" Name="PmodGYRO_Demo_markers.rnpi"/>
+  <File Type="MARKER-RCDO-FILE" Name="PmodGYRO_Demo_markers.rcdo"/>
+  <File Type="BOOT_RNPI_FILE" Name="PmodGYRO_Demo_boot.rnpi"/>
+  <File Type="BOOT_MARKER_RNPI_FILE" Name="PmodGYRO_Demo_boot_markers.rnpi"/>
+  <File Type="PL_RNPI_FILE" Name="PmodGYRO_Demo_pld.rnpi"/>
+  <File Type="PL_MARKER_RNPI_FILE" Name="PmodGYRO_Demo_pld_markers.rnpi"/>
+  <File Type="PL_MASK_RNPI_FILE" Name="PmodGYRO_Demo_pld_mask.rnpi"/>
+  <File Type="PL_SHUTDOWN_RNPI_FILE" Name="PmodGYRO_Demo_pld_shutdown.rnpi"/>
+  <File Type="PL_UNMASK_RNPI_FILE" Name="PmodGYRO_Demo_pld_unmask.rnpi"/>
+  <File Type="PL-RCDO-FILE" Name="PmodGYRO_Demo_pld.rcdo"/>
+  <File Type="PL-CLEAR-RCDO-FILE" Name="PmodGYRO_Demo_pld_clear.rcdo"/>
+  <File Type="PL_MARKER_RCDO_FILE" Name="PmodGYRO_Demo_pld_markers.rcdo"/>
+  <File Type="PL_MASK_RCDO_FILE" Name="PmodGYRO_Demo_pld_mask.rcdo"/>
+  <File Type="PL_UNMASK_MARKER_RCDO_FILE" Name="PmodGYRO_Demo_pld_unmask_markers.rcdo"/>
+  <File Type="PL_UNMASK_RCDO_FILE" Name="PmodGYRO_Demo_pld_unmask.rcdo"/>
+  <File Type="NPI_FILE" Name="PmodGYRO_Demo.npi"/>
+  <File Type="RBD_FILE" Name="PmodGYRO_Demo.rbd"/>
+  <File Type="MMI-FILE" Name="PmodGYRO_Demo.mmi"/>
+  <File Type="BIF-FILE" Name="PmodGYRO_Demo.bif"/>
+  <File Type="BOOT-BIF-FILE" Name="PmodGYRO_Demo_boot.bif"/>
+  <File Type="PL-BIF-FILE" Name="PmodGYRO_Demo_pld.bif"/>
+  <File Type="LTX-FILE" Name="PmodGYRO_Demo.ltx"/>
+  <File Type="BOOT-LTX-FILE" Name="PmodGYRO_Demo_boot.ltx"/>
+  <File Type="PL-LTX-FILE" Name="PmodGYRO_Demo_pld.ltx"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="PmodGYRO_Demo.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="PmodGYRO_Demo.sysdef"/>
+  <File Type="BG-BGN" Name="PmodGYRO_Demo.bgn"/>
+  <File Type="BG-DRC" Name="PmodGYRO_Demo.drc"/>
+  <File Type="RDI-RDI" Name="PmodGYRO_Demo.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="PmodGYRO_Demo_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="PmodGYRO_Demo_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/Binary_To_BCD.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/anode_decoder.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/data_controller.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/data_select.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/decimal_select.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/digit_select.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/display_clk.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/display_controller.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/master_interface.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/seven_seg_decoder.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/spi_interface.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/two_bit_counter.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/pmodgyro_demo.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="PmodGYRO_Demo"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../pmodgyro_demo_verilog/PmodGYRO_Demo/Basys3_Pmod.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/PmodGYRO_Demo.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2025"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
